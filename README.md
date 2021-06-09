@@ -1,7 +1,5 @@
 # Pikachu Group Manager
- This is a group manager bot for your group
- 😄😄
- Credits goes to [Legend X](https://t.me/LegendX22)
+ This is the best telegram group management bot if you are finding one like this.
 <summary> </summary>
 <img src="https://telegra.ph/file/4233b9a65aadbdf2cd682.jpg" />
 
