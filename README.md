@@ -1,7 +1,7 @@
 # Pikachu Group Manager
  This is the best telegram group management bot if you are finding one like this.
 <summary> </summary>
-<img src="https://telegra.ph/file/4233b9a65aadbdf2cd682.jpg" />
+<img src="https://telegra.ph/file/340fa0dc95e8f3ce45407.jpg" />
 
 It can be find in telegram as [༒ρıkαcнυ ☬](https://t.me/PikachuManager_Robot)
 
