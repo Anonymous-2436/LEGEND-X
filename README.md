@@ -1,4 +1,4 @@
-# Suneo Group Manager
+# Pikachu Group Manager
  This is a group manager bot for your group
  😄😄
  Credits goes to [Legend X](https://t.me/LegendX22)
